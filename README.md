@@ -67,3 +67,15 @@ Performance comparison on **ogbn-papers100M**:
 Performance comparison on **ogbn-mag**:
 
 ![image-20210819194235072](./mag_perf.png)
+
+## Citing SGL
+
+Please cite our [paper](https://arxiv.org/abs/2206.04355) if you find *GAMLP* useful in your work:
+```
+@article{zhang2022graph,
+  title={Graph attention multi-layer perceptron},
+  author={Zhang, Wentao and Yin, Ziqi and Sheng, Zeang and Li, Yang and Ouyang, Wen and Li, Xiaosen and Tao, Yangyu and Yang, Zhi and Cui, Bin},
+  journal={arXiv preprint arXiv:2206.04355},
+  year={2022}
+}
+```
